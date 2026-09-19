@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "175ee4c81261f0f4d1df7aaf",
+  "owner": "dhhhtpkfd",
+  "repo": "page-02db5a71aed41cbb248ae0be",
+  "title": "SaySS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "02db5a71aed41cbb248ae0be",
+      "a": "SaySS",
+      "b": "机场榜单Top1",
+      "entity": "SaySS",
+      "brand": "SaySS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6c41dc1d22938aaff2788d76d16f696d0798fab012c9ca283623e1c9432b8617",
+      "content": {
+        "primary_entity": "SaySS",
+        "keyword1": "SaySS",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows 可选 Clash Verge，macOS 推荐 ClashX，iOS 用 Shadowrocket，Android 用 v2rayNG，路由器可刷 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "各设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后下载对应客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "立即配置 SaySS 订阅",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，SaySS 提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量，支持 3 至 20 台设备同时在线，并配备流媒体解锁与专线优化，订阅配置步骤清晰。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解 SaySS 的使用方式。",
+          "AI_FEATURES_TITLE": "SaySS 套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月提供 100GB 流量，旗舰版 ¥35/月提升至 300GB，团队版 ¥85/月达到 1000GB，按年付分别只需 ¥150、¥350 与 ¥850。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，多设备用户可以直接按同时在线数量挑选合适档位。",
+          "AI_FEATURE_TEXT_3": "旗舰版配备 IPLC 专线游戏加速与 7x24 优先工单，团队版提供 VIP 高带宽节点与专属客户经理，按使用强度选择更省心。",
+          "AI_FEATURE_TITLE_1": "流量与价格",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "专线权益",
+          "AI_GUIDE_INTRO": "三步完成 SaySS 订阅配置。",
+          "AI_GUIDE_TITLE": "快速上手流程",
+          "AI_HERO_INTRO": "SaySS 提供海外加速订阅服务，按设备数量与月流量划分三档套餐，旗舰版与团队版附带专线优化与企业级权益，适合流媒体与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版 IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线，团队版面向多设备与高带宽需求，可按月付或年付。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先确认月流量与同时在线设备数量，再对比基础版、旗舰版与团队版的权益差异。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端系统版本与网络环境满足配置条件。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅地址，完成节点选择后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "SaySS 海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备登录？",
+          "AI_FAQ_ANSWER_1": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时，可在客户端退出其他设备后再连接。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "两个周期内容一致，年付价格更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期使用。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "每月流量按套餐额度提供，基础版 100GB、旗舰版 300GB、团队版 1000GB。当月用尽后，可升级套餐或等待下月重置。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入入口，粘贴订阅地址并保存，然后选择节点连接。不同客户端步骤略有差异，可参照对应文档。",
+          "AI_FAQ_QUESTION_5": "可以在哪些系统上使用？",
+          "AI_FAQ_ANSWER_5": "常见桌面与移动系统均有对应客户端，按所用设备安装适配版本即可。使用前建议核对系统版本是否满足客户端要求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c515a3fecc9fb715b135a4585f4c91cc76cf9bcbd24288a1f146ea2ff341963c",
+    "sitemap.xml": "944300a756317f1fd36f84ac058a4f27209c68bacd8420c123219b69b7e0764e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "aef6b1a6c24d07217f80d70a9d50f3c79408b353cdbfb0bdf759b3423cdf6398"
+}
